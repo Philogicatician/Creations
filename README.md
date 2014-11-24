@@ -10,3 +10,6 @@ The abstraction of time and space intuitively seem to make sense, but one has th
 This, of course, leads to Hume's radical skepticism of doubting causation. That is, we don't actually see the causation between the cue balls as they hit one another on the table. Rather, we merely see a sequences of images and infer the relationship between the images. 
 
 This is indeed a distressing idea, as Kant realized, because its implications undermine all of science. Kant sought to resolve this dilemma by pontificating on the topic for quite some time. His resolution was to show that empiricists like Hume, Berkeley, and Locke were contradicting themselves in the explantion of our behaviours because most basics acts of sentience and making judgments presupposes the claims of how we perform them.
+
+
+TEST******
